@@ -1,5 +1,3 @@
-[![Deploy to Hatchable](https://hatchable.com/deploy-button.svg)](https://hatchable.com/deploy?repo=https://github.com/annielarcher/bagul)
-
 # Bloco de Notas Musical
 
 Editor musical digital focado em capturar ideias rapidamente: **abra → escreva → ouça → salve**.
